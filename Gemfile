@@ -18,5 +18,5 @@ group :jekyll_plugins do
   gem 'jekyll-commonmark-ghpages', '0.1.6'
 end
 
-gem 'sinatra', '2.0.5'
+gem 'sinatra', '2.2.3'
 gem 'nokogiri', '1.10.3'
